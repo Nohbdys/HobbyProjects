@@ -1,0 +1,32 @@
+C:\Users\Oliver Bille\Desktop\TestProject\RemoveCopies\bin\Debug\RemoveCopies.exe.config
+C:\Users\Oliver Bille\Desktop\TestProject\RemoveCopies\bin\Debug\RemoveCopies.exe
+C:\Users\Oliver Bille\Desktop\TestProject\RemoveCopies\bin\Debug\RemoveCopies.pdb
+C:\Users\Oliver Bille\Desktop\TestProject\RemoveCopies\obj\Debug\RemoveCopies.csprojAssemblyReference.cache
+C:\Users\Oliver Bille\Desktop\TestProject\RemoveCopies\obj\Debug\RemoveCopies.Form1.resources
+C:\Users\Oliver Bille\Desktop\TestProject\RemoveCopies\obj\Debug\RemoveCopies.Properties.Resources.resources
+C:\Users\Oliver Bille\Desktop\TestProject\RemoveCopies\obj\Debug\RemoveCopies.csproj.GenerateResource.cache
+C:\Users\Oliver Bille\Desktop\TestProject\RemoveCopies\obj\Debug\RemoveCopies.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Bille\Desktop\TestProject\RemoveCopies\obj\Debug\RemoveCopies.exe
+C:\Users\Oliver Bille\Desktop\TestProject\RemoveCopies\obj\Debug\RemoveCopies.pdb
+G:\Oliver Pc Spil\TestProject\RemoveCopies\bin\Debug\RemoveCopies.exe.config
+G:\Oliver Pc Spil\TestProject\RemoveCopies\bin\Debug\RemoveCopies.exe
+G:\Oliver Pc Spil\TestProject\RemoveCopies\bin\Debug\RemoveCopies.pdb
+G:\Oliver Pc Spil\TestProject\RemoveCopies\obj\Debug\RemoveCopies.csproj.AssemblyReference.cache
+G:\Oliver Pc Spil\TestProject\RemoveCopies\obj\Debug\RemoveCopies.csproj.SuggestedBindingRedirects.cache
+G:\Oliver Pc Spil\TestProject\RemoveCopies\obj\Debug\RemoveCopies.Form1.resources
+G:\Oliver Pc Spil\TestProject\RemoveCopies\obj\Debug\RemoveCopies.Properties.Resources.resources
+G:\Oliver Pc Spil\TestProject\RemoveCopies\obj\Debug\RemoveCopies.csproj.GenerateResource.cache
+G:\Oliver Pc Spil\TestProject\RemoveCopies\obj\Debug\RemoveCopies.csproj.CoreCompileInputs.cache
+G:\Oliver Pc Spil\TestProject\RemoveCopies\obj\Debug\RemoveCopies.exe
+G:\Oliver Pc Spil\TestProject\RemoveCopies\obj\Debug\RemoveCopies.pdb
+E:\HobbyProjects\RemoveCopies\bin\Debug\RemoveCopies.exe.config
+E:\HobbyProjects\RemoveCopies\bin\Debug\RemoveCopies.exe
+E:\HobbyProjects\RemoveCopies\bin\Debug\RemoveCopies.pdb
+E:\HobbyProjects\RemoveCopies\obj\Debug\RemoveCopies.csproj.AssemblyReference.cache
+E:\HobbyProjects\RemoveCopies\obj\Debug\RemoveCopies.csproj.SuggestedBindingRedirects.cache
+E:\HobbyProjects\RemoveCopies\obj\Debug\RemoveCopies.Form1.resources
+E:\HobbyProjects\RemoveCopies\obj\Debug\RemoveCopies.Properties.Resources.resources
+E:\HobbyProjects\RemoveCopies\obj\Debug\RemoveCopies.csproj.GenerateResource.cache
+E:\HobbyProjects\RemoveCopies\obj\Debug\RemoveCopies.csproj.CoreCompileInputs.cache
+E:\HobbyProjects\RemoveCopies\obj\Debug\RemoveCopies.exe
+E:\HobbyProjects\RemoveCopies\obj\Debug\RemoveCopies.pdb

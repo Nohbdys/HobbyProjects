@@ -1,0 +1,11 @@
+E:\HobbyProjects\Name Generator\bin\Release\Name Generator.exe.config
+E:\HobbyProjects\Name Generator\bin\Release\Name Generator.exe
+E:\HobbyProjects\Name Generator\bin\Release\Name Generator.pdb
+E:\HobbyProjects\Name Generator\obj\Release\Name Generator.csproj.AssemblyReference.cache
+E:\HobbyProjects\Name Generator\obj\Release\Name Generator.csproj.SuggestedBindingRedirects.cache
+E:\HobbyProjects\Name Generator\obj\Release\Name_Generator.Form1.resources
+E:\HobbyProjects\Name Generator\obj\Release\Name_Generator.Properties.Resources.resources
+E:\HobbyProjects\Name Generator\obj\Release\Name Generator.csproj.GenerateResource.cache
+E:\HobbyProjects\Name Generator\obj\Release\Name Generator.csproj.CoreCompileInputs.cache
+E:\HobbyProjects\Name Generator\obj\Release\Name Generator.exe
+E:\HobbyProjects\Name Generator\obj\Release\Name Generator.pdb
